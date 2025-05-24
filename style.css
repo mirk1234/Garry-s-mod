@@ -1,0 +1,26 @@
+body {
+    color: black;
+    background: url(https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/ecae0f862ac2f087f1581122999dd1e6281ce3b5/capsule_616x353.jpg?t=1736937068);
+    background-position: center;
+    background-size: cover;
+}
+
+
+nav a {
+    border-radius: 20px;
+    background-color: white;
+    padding: 10px;
+}
+
+
+
+p {
+    background-color: white;
+    padding: 10px;
+}
+
+footer {
+    background-color: white;
+    padding:10px;
+}
+
